@@ -1,0 +1,796 @@
+{
+  "dua_categories": [
+    {
+      "_id": 1,
+      "ar_title": null,
+      "en_title": "Upon waking up",
+      "fr_title": null
+    },
+    {
+      "_id": 2,
+      "ar_title": null,
+      "en_title": "Supplication when wearing clothes",
+      "fr_title": null
+    },
+    {
+      "_id": 3,
+      "ar_title": null,
+      "en_title": "Supplication when wearing new clothes",
+      "fr_title": null
+    },
+    {
+      "_id": 4,
+      "ar_title": null,
+      "en_title": "Supplication said to someone wearing new clothes",
+      "fr_title": null
+    },
+    {
+      "_id": 5,
+      "ar_title": null,
+      "en_title": "Before Undressing",
+      "fr_title": null
+    },
+    {
+      "_id": 6,
+      "ar_title": null,
+      "en_title": "Before entering the toilet",
+      "fr_title": null
+    },
+    {
+      "_id": 7,
+      "ar_title": null,
+      "en_title": "After leaving the toilet",
+      "fr_title": null
+    },
+    {
+      "_id": 8,
+      "ar_title": null,
+      "en_title": "When starting ablution (wudu')",
+      "fr_title": null
+    },
+    {
+      "_id": 9,
+      "ar_title": null,
+      "en_title": "Upon completing ablution (wudu')",
+      "fr_title": null
+    },
+    {
+      "_id": 10,
+      "ar_title": null,
+      "en_title": "When leaving home",
+      "fr_title": null
+    },
+    {
+      "_id": 11,
+      "ar_title": null,
+      "en_title": "Upon entering home",
+      "fr_title": null
+    },
+    {
+      "_id": 12,
+      "ar_title": null,
+      "en_title": "Supplication when going to the masjid",
+      "fr_title": null
+    },
+    {
+      "_id": 13,
+      "ar_title": null,
+      "en_title": "Upon entering the masjid",
+      "fr_title": null
+    },
+    {
+      "_id": 14,
+      "ar_title": null,
+      "en_title": "Upon leaving the masjid",
+      "fr_title": null
+    },
+    {
+      "_id": 15,
+      "ar_title": null,
+      "en_title": "Supplications related to the Athân (call to prayer)",
+      "fr_title": null
+    },
+    {
+      "_id": 16,
+      "ar_title": null,
+      "en_title": "Supplications at the start of Ŝalâh (prayer)",
+      "fr_title": null
+    },
+    {
+      "_id": 17,
+      "ar_title": null,
+      "en_title": "While bowing in Ŝalâh (Rukû')",
+      "fr_title": null
+    },
+    {
+      "_id": 18,
+      "ar_title": null,
+      "en_title": "Upon rising from Rukû' (bowing position in Ŝalâh)",
+      "fr_title": null
+    },
+    {
+      "_id": 19,
+      "ar_title": null,
+      "en_title": "Supplications while in Sujûd (prostration in Ŝalâh)",
+      "fr_title": null
+    },
+    {
+      "_id": 20,
+      "ar_title": null,
+      "en_title": "Supplications between sajdatain (two prostrations)",
+      "fr_title": null
+    },
+    {
+      "_id": 21,
+      "ar_title": null,
+      "en_title": "Supplication for Sajdah (prostration) due to recitation of Qur'an",
+      "fr_title": null
+    },
+    {
+      "_id": 22,
+      "ar_title": null,
+      "en_title": "Dua of Tashahhud",
+      "fr_title": null
+    },
+    {
+      "_id": 23,
+      "ar_title": null,
+      "en_title": "Dua for the Prophet (salla Allaahu ʻalayhi wa salaam) after the Tashahhud",
+      "fr_title": null
+    },
+    {
+      "_id": 24,
+      "ar_title": null,
+      "en_title": "Supplication to be said after the last Tashahhud and before the Taslîm",
+      "fr_title": null
+    },
+    {
+      "_id": 25,
+      "ar_title": null,
+      "en_title": "Remembrance after the Taslîm",
+      "fr_title": null
+    },
+    {
+      "_id": 26,
+      "ar_title": null,
+      "en_title": "Supplication for seeking guidance in forming a decision or choosing the proper course, etc..(Al-'Istikhârah)",
+      "fr_title": null
+    },
+    {
+      "_id": 27,
+      "ar_title": null,
+      "en_title": "Remembrance said in the morning and evening",
+      "fr_title": null
+    },
+    {
+      "_id": 28,
+      "ar_title": null,
+      "en_title": "Remembrance before sleeping",
+      "fr_title": null
+    },
+    {
+      "_id": 29,
+      "ar_title": null,
+      "en_title": "Supplication when turning over during the night",
+      "fr_title": null
+    },
+    {
+      "_id": 30,
+      "ar_title": null,
+      "en_title": "Upon experiencing unrest, fear, apprehensiveness and the like during sleep",
+      "fr_title": null
+    },
+    {
+      "_id": 31,
+      "ar_title": null,
+      "en_title": "Upon seeing a bad dream",
+      "fr_title": null
+    },
+    {
+      "_id": 32,
+      "ar_title": null,
+      "en_title": "Du'â Qunût Al-Witr ",
+      "fr_title": null
+    },
+    {
+      "_id": 33,
+      "ar_title": null,
+      "en_title": "Remembrance immediately after the Taslîm of the Witr Ŝalâh",
+      "fr_title": null
+    },
+    {
+      "_id": 34,
+      "ar_title": null,
+      "en_title": "Supplication for anxiety and sorrow",
+      "fr_title": null
+    },
+    {
+      "_id": 35,
+      "ar_title": null,
+      "en_title": "Supplication for one in distress",
+      "fr_title": null
+    },
+    {
+      "_id": 36,
+      "ar_title": null,
+      "en_title": "Upon encountering an enemy or those of authority",
+      "fr_title": null
+    },
+    {
+      "_id": 37,
+      "ar_title": null,
+      "en_title": "For fear of the opression of rulers",
+      "fr_title": null
+    },
+    {
+      "_id": 38,
+      "ar_title": null,
+      "en_title": "Against enemies",
+      "fr_title": null
+    },
+    {
+      "_id": 39,
+      "ar_title": null,
+      "en_title": "When afraid of a group people",
+      "fr_title": null
+    },
+    {
+      "_id": 40,
+      "ar_title": null,
+      "en_title": "Supplication for one afflicted with doubt in his faith",
+      "fr_title": null
+    },
+    {
+      "_id": 41,
+      "ar_title": null,
+      "en_title": "Settling a debt",
+      "fr_title": null
+    },
+    {
+      "_id": 42,
+      "ar_title": null,
+      "en_title": "Supplication for one afflicted by whisperings in prayer or recitation",
+      "fr_title": null
+    },
+    {
+      "_id": 43,
+      "ar_title": null,
+      "en_title": "Supplication for one whose affairs have become difficult",
+      "fr_title": null
+    },
+    {
+      "_id": 44,
+      "ar_title": null,
+      "en_title": "Upon committing a sin",
+      "fr_title": null
+    },
+    {
+      "_id": 45,
+      "ar_title": null,
+      "en_title": "Supplications for expelling the devil and his whisperings",
+      "fr_title": null
+    },
+    {
+      "_id": 46,
+      "ar_title": null,
+      "en_title": "Supplication when stricken with a mishap or overtaken by an affair",
+      "fr_title": null
+    },
+    {
+      "_id": 47,
+      "ar_title": null,
+      "en_title": "Congratulations on the occasion of a birth",
+      "fr_title": null
+    },
+    {
+      "_id": 48,
+      "ar_title": null,
+      "en_title": "Placing children under Allah's protection",
+      "fr_title": null
+    },
+    {
+      "_id": 49,
+      "ar_title": null,
+      "en_title": "When visiting the sick",
+      "fr_title": null
+    },
+    {
+      "_id": 50,
+      "ar_title": null,
+      "en_title": "Excellence of visiting the sick",
+      "fr_title": null
+    },
+    {
+      "_id": 51,
+      "ar_title": null,
+      "en_title": "Supplication of the sick who have renounced all hope of life",
+      "fr_title": null
+    },
+    {
+      "_id": 52,
+      "ar_title": null,
+      "en_title": "Instruction for the one nearing death",
+      "fr_title": null
+    },
+    {
+      "_id": 53,
+      "ar_title": null,
+      "en_title": "Supplication for one afflicted by a calamity",
+      "fr_title": null
+    },
+    {
+      "_id": 54,
+      "ar_title": null,
+      "en_title": "When closing the eyes of the deceased",
+      "fr_title": null
+    },
+    {
+      "_id": 55,
+      "ar_title": null,
+      "en_title": "Supplication for the deceased at the funeral prayer",
+      "fr_title": null
+    },
+    {
+      "_id": 56,
+      "ar_title": null,
+      "en_title": "Supplication for the deceased child at the funeral prayer",
+      "fr_title": null
+    },
+    {
+      "_id": 57,
+      "ar_title": null,
+      "en_title": "Condolence",
+      "fr_title": null
+    },
+    {
+      "_id": 58,
+      "ar_title": null,
+      "en_title": "Placing the deceased in the grave",
+      "fr_title": null
+    },
+    {
+      "_id": 59,
+      "ar_title": null,
+      "en_title": "After burying the deceased",
+      "fr_title": null
+    },
+    {
+      "_id": 60,
+      "ar_title": null,
+      "en_title": "Visiting the graves",
+      "fr_title": null
+    },
+    {
+      "_id": 61,
+      "ar_title": null,
+      "en_title": "Prayer said during a wind storm",
+      "fr_title": null
+    },
+    {
+      "_id": 62,
+      "ar_title": null,
+      "en_title": "Supplication upon hearing thunder",
+      "fr_title": null
+    },
+    {
+      "_id": 63,
+      "ar_title": null,
+      "en_title": "Supplication for rain",
+      "fr_title": null
+    },
+    {
+      "_id": 64,
+      "ar_title": null,
+      "en_title": "Supplication when it is raining",
+      "fr_title": null
+    },
+    {
+      "_id": 65,
+      "ar_title": null,
+      "en_title": "Supplication after rain",
+      "fr_title": null
+    },
+    {
+      "_id": 66,
+      "ar_title": null,
+      "en_title": "Asking for clear skies",
+      "fr_title": null
+    },
+    {
+      "_id": 67,
+      "ar_title": null,
+      "en_title": "Upon sighting the crescent moon",
+      "fr_title": null
+    },
+    {
+      "_id": 68,
+      "ar_title": null,
+      "en_title": "Upon breaking fast",
+      "fr_title": null
+    },
+    {
+      "_id": 69,
+      "ar_title": null,
+      "en_title": "Supplication before eating",
+      "fr_title": null
+    },
+    {
+      "_id": 70,
+      "ar_title": null,
+      "en_title": "Upon completion of a meal",
+      "fr_title": null
+    },
+    {
+      "_id": 71,
+      "ar_title": null,
+      "en_title": "Supplication of the guest for the host",
+      "fr_title": null
+    },
+    {
+      "_id": 72,
+      "ar_title": null,
+      "en_title": "Supplication said to one offering a drink or to one who intended to do that",
+      "fr_title": null
+    },
+    {
+      "_id": 73,
+      "ar_title": null,
+      "en_title": "Supplication said when breaking fast in someone's home",
+      "fr_title": null
+    },
+    {
+      "_id": 74,
+      "ar_title": null,
+      "en_title": "Supplication said by one fasting when presented with food and does not break his fast",
+      "fr_title": null
+    },
+    {
+      "_id": 75,
+      "ar_title": null,
+      "en_title": "If insulted while fasting",
+      "fr_title": null
+    },
+    {
+      "_id": 76,
+      "ar_title": null,
+      "en_title": "Supplication said upon seeing the early or premature fruit",
+      "fr_title": null
+    },
+    {
+      "_id": 77,
+      "ar_title": null,
+      "en_title": "Supplication said upon sneezing",
+      "fr_title": null
+    },
+    {
+      "_id": 78,
+      "ar_title": null,
+      "en_title": "What to say to a kâfir who praises Allah after sneezing",
+      "fr_title": null
+    },
+    {
+      "_id": 79,
+      "ar_title": null,
+      "en_title": "Supplication said to the newly wed",
+      "fr_title": null
+    },
+    {
+      "_id": 80,
+      "ar_title": null,
+      "en_title": "The groom's supplication on the wedding night or when buying an animal",
+      "fr_title": null
+    },
+    {
+      "_id": 81,
+      "ar_title": null,
+      "en_title": "Supplication before sexual intercourse",
+      "fr_title": null
+    },
+    {
+      "_id": 82,
+      "ar_title": null,
+      "en_title": "When angry",
+      "fr_title": null
+    },
+    {
+      "_id": 83,
+      "ar_title": null,
+      "en_title": "Supplication said upon seeing someone in trial or tribulation",
+      "fr_title": null
+    },
+    {
+      "_id": 84,
+      "ar_title": null,
+      "en_title": "Remembrance said at a sitting or gathering, etc...",
+      "fr_title": null
+    },
+    {
+      "_id": 85,
+      "ar_title": null,
+      "en_title": "Supplication for the expiation of sins said at the conclusion of a sitting or gathering, etc...",
+      "fr_title": null
+    },
+    {
+      "_id": 86,
+      "ar_title": null,
+      "en_title": "Replying to a supplication of forgiveness",
+      "fr_title": null
+    },
+    {
+      "_id": 87,
+      "ar_title": null,
+      "en_title": "Supplication said to one who does you a favor",
+      "fr_title": null
+    },
+    {
+      "_id": 88,
+      "ar_title": null,
+      "en_title": "Protection from the Dajjâl",
+      "fr_title": null
+    },
+    {
+      "_id": 89,
+      "ar_title": null,
+      "en_title": "Supplication said to one who pronounces his love for you, for Allah's sake",
+      "fr_title": null
+    },
+    {
+      "_id": 90,
+      "ar_title": null,
+      "en_title": "Supplication said to one who has offered you some of his wealth",
+      "fr_title": null
+    },
+    {
+      "_id": 91,
+      "ar_title": null,
+      "en_title": "Supplication said to the debtor when his debt is settled",
+      "fr_title": null
+    },
+    {
+      "_id": 92,
+      "ar_title": null,
+      "en_title": "Supplication for fear of Shirk",
+      "fr_title": null
+    },
+    {
+      "_id": 93,
+      "ar_title": null,
+      "en_title": "Returning a supplication after having bestowed a gift or charity upon someone",
+      "fr_title": null
+    },
+    {
+      "_id": 94,
+      "ar_title": null,
+      "en_title": "Forbiddance of ascribing things to omens",
+      "fr_title": null
+    },
+    {
+      "_id": 95,
+      "ar_title": null,
+      "en_title": "Supplication said when mounting an animal or any means of transport",
+      "fr_title": null
+    },
+    {
+      "_id": 96,
+      "ar_title": null,
+      "en_title": "Supplication for travel",
+      "fr_title": null
+    },
+    {
+      "_id": 97,
+      "ar_title": null,
+      "en_title": "Supplication upon entering a town or village, etc...",
+      "fr_title": null
+    },
+    {
+      "_id": 98,
+      "ar_title": null,
+      "en_title": "When entering the market",
+      "fr_title": null
+    },
+    {
+      "_id": 99,
+      "ar_title": null,
+      "en_title": "Supplication for when the mounted animal (or means of transport) stumbles",
+      "fr_title": null
+    },
+    {
+      "_id": 100,
+      "ar_title": null,
+      "en_title": "Supplication of the traveller for the resident",
+      "fr_title": null
+    },
+    {
+      "_id": 101,
+      "ar_title": null,
+      "en_title": "Supplication of the resident for the traveller",
+      "fr_title": null
+    },
+    {
+      "_id": 102,
+      "ar_title": null,
+      "en_title": "Remembrance while ascending or descending",
+      "fr_title": null
+    },
+    {
+      "_id": 103,
+      "ar_title": null,
+      "en_title": "Prayer of the traveller as dawn approaches",
+      "fr_title": null
+    },
+    {
+      "_id": 104,
+      "ar_title": null,
+      "en_title": "Stopping or lodging somewhere",
+      "fr_title": null
+    },
+    {
+      "_id": 105,
+      "ar_title": null,
+      "en_title": "While returning from travel",
+      "fr_title": null
+    },
+    {
+      "_id": 106,
+      "ar_title": null,
+      "en_title": "Supplication after receiving good or bad news",
+      "fr_title": null
+    },
+    {
+      "_id": 107,
+      "ar_title": null,
+      "en_title": "Excellence of sending prayers upon the Prophet (May Allah send blessings and peace upon him)",
+      "fr_title": null
+    },
+    {
+      "_id": 108,
+      "ar_title": null,
+      "en_title": "Excellence of spreading the Islamic greeting",
+      "fr_title": null
+    },
+    {
+      "_id": 109,
+      "ar_title": null,
+      "en_title": "How to reply to the Salâm of a Kâfir",
+      "fr_title": null
+    },
+    {
+      "_id": 110,
+      "ar_title": null,
+      "en_title": "Supplication after hearing a rooster crow or a donkey bray",
+      "fr_title": null
+    },
+    {
+      "_id": 111,
+      "ar_title": null,
+      "en_title": "Supplication upon hearing the barking of dogs at night",
+      "fr_title": null
+    },
+    {
+      "_id": 112,
+      "ar_title": null,
+      "en_title": "Supplication said for one you have insulted",
+      "fr_title": null
+    },
+    {
+      "_id": 113,
+      "ar_title": null,
+      "en_title": "The etiquette of praising a fellow Muslim",
+      "fr_title": null
+    },
+    {
+      "_id": 114,
+      "ar_title": null,
+      "en_title": "For the one that has been praised",
+      "fr_title": null
+    },
+    {
+      "_id": 115,
+      "ar_title": null,
+      "en_title": "The Talbiyah for the one doing Ĥajj or 'Umra",
+      "fr_title": null
+    },
+    {
+      "_id": 116,
+      "ar_title": null,
+      "en_title": "The Takbîr passing the black stone",
+      "fr_title": null
+    },
+    {
+      "_id": 117,
+      "ar_title": null,
+      "en_title": "Between the Yemeni corner and the black stone",
+      "fr_title": null
+    },
+    {
+      "_id": 118,
+      "ar_title": null,
+      "en_title": "When at Mount Ŝaffâ and Mount Marwah",
+      "fr_title": null
+    },
+    {
+      "_id": 119,
+      "ar_title": null,
+      "en_title": "On the Day of 'Arafah",
+      "fr_title": null
+    },
+    {
+      "_id": 120,
+      "ar_title": null,
+      "en_title": "At the Sacred Site (Al-Mash'ar Al-Harâm)",
+      "fr_title": null
+    },
+    {
+      "_id": 121,
+      "ar_title": null,
+      "en_title": "Supplication for throwing a pebble at the Jamarât",
+      "fr_title": null
+    },
+    {
+      "_id": 122,
+      "ar_title": null,
+      "en_title": "What to say at times of amazement and delight",
+      "fr_title": null
+    },
+    {
+      "_id": 123,
+      "ar_title": null,
+      "en_title": "What to do upon receiving pleasant news",
+      "fr_title": null
+    },
+    {
+      "_id": 124,
+      "ar_title": null,
+      "en_title": "What to say and do when feeling some pain in the body",
+      "fr_title": null
+    },
+    {
+      "_id": 125,
+      "ar_title": null,
+      "en_title": "What to say when in fear of afflicting something or someone with one's eye",
+      "fr_title": null
+    },
+    {
+      "_id": 126,
+      "ar_title": null,
+      "en_title": "What to say when startled",
+      "fr_title": null
+    },
+    {
+      "_id": 127,
+      "ar_title": null,
+      "en_title": "When slaughtering or offering a sacrifice",
+      "fr_title": null
+    },
+    {
+      "_id": 128,
+      "ar_title": null,
+      "en_title": "What is said to ward off the deception of the Obstinate Shaytaans",
+      "fr_title": null
+    },
+    {
+      "_id": 129,
+      "ar_title": null,
+      "en_title": "Seeking forgiveness and repentance",
+      "fr_title": null
+    },
+    {
+      "_id": 130,
+      "ar_title": null,
+      "en_title": "Excellence of At-Tasbîĥ, At-Taĥmîd, At-Tahlîl and At-Takbîr",
+      "fr_title": null
+    },
+    {
+      "_id": 131,
+      "ar_title": null,
+      "en_title": "How the Prophet (salla Allaahu ʻalayhi wa salaam) made tasbîĥ?",
+      "fr_title": null
+    },
+    {
+      "_id": 132,
+      "ar_title": null,
+      "en_title": "General and beneficent rules",
+      "fr_title": null
+    }
+  ]
+}
